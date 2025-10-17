@@ -23,6 +23,6 @@ version: 0.1.0
 appVersion: "2.0"
 dependencies:
   - name: nginx
-    version: "22.0.11"
+    version: "22.0.10"
     repository: "oci://registry-1.docker.io/bitnamicharts"
 
